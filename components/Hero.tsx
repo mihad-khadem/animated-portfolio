@@ -30,7 +30,7 @@ const Hero = () => {
       </div>
 
       {/* Main content */}
-      <div className="relative z-10 flex flex-col-reverse lg:flex-row justify-center items-center  mx-auto max-w-7xl">
+      <div className="relative z-10 flex flex-col-reverse lg:flex-row justify-center items-center mx-auto max-w-7xl px-4">
         {/* Text */}
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[50%] flex flex-col items-center justify-center">
           <TextGenerateEffect
@@ -40,7 +40,7 @@ const Hero = () => {
           <p className="text-sm text-center mb-4 md:text-lg lg:text-2xl">
             Hi, I{"'"}m <span className="font-semibold">Mihad</span>, a
             passionate <span className="font-semibold">Programmer</span> &{" "}
-            <span className="font-semibold"> Full-Stack Web Developer</span>
+            <span className="font-semibold">Full-Stack Web Developer</span>
           </p>
           <a href="#about">
             <MagicButton
@@ -52,8 +52,8 @@ const Hero = () => {
         </div>
 
         {/* Globe */}
-        <div className="w-full lg:max-w-[50%]  mt-6 lg:mt-0 lg:ml-4 flex justify-center items-center ">
-          <div className="w-full h-full ">
+        <div className="w-full md:pb-20 lg:w-1/2 mt-6 lg:mt-0 lg:ml-4 flex justify-center items-center">
+          <div className="w-full h-64 md:h-96 lg:h-full">
             <MyGlobe />
           </div>
         </div>
