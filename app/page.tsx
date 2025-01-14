@@ -4,6 +4,8 @@ import Grid from "@/components/Grid";
 import Image from "next/image";
 import { FaHome } from "react-icons/fa";
 import RecentProjects from "@/components/RecentProjects";
+import Experience from "@/components/Experience";
+import Approach from "@/components/Approach";
 
 export default function Home() {
   return (
@@ -21,6 +23,8 @@ export default function Home() {
         <Hero />
         <Grid />
         <RecentProjects />
+        <Experience />
+        <Approach />
       </div>
     </main>
   );

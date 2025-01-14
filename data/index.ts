@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "Client Collaboration, Fostering Open Communication and Partnership",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "Flexible Communication, Adapting to Diverse Time Zones and Needs",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -28,7 +28,7 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
+    title: "Tech Stack, Building Robust and Scalable Solutions",
     description: "I constantly try to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -38,8 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title:
-      "In a world of endless possibilities, the web developer is the master of manifestation..",
+    title: "Web Development Mastery Crafting Seamless User Experiences",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -47,11 +46,9 @@ export const gridItems = [
     img: "/grid.svg",
     spareImg: "/b4.svg",
   },
-
   {
     id: 5,
-    title:
-      "From lines of code to pixels on a screen, we are the architects of the digital age.",
+    title: "Digital Architecture; Designing the Future of the Web",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -61,7 +58,8 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title:
+      "Project Initiation? Transforming Ideas into Tangible Outcomes, Connect with me",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -108,34 +106,94 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "“The only constant in the technology industry is change.”",
+    author: "Marc Benioff",
+  },
+  {
+    quote: "“Innovation distinguishes between a leader and a follower.”",
+    author: "Steve Jobs",
+  },
+  {
+    quote: "“The best way to predict the future is to invent it.”",
+    author: "Alan Kay",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "“It's fine to celebrate success but it is more important to heed the lessons of failure.”",
+    author: "Bill Gates",
+  },
+  {
+    quote: "“The biggest risk is not taking any risk.”",
+    author: "Mark Zuckerberg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "“If you don't innovate fast, disrupt your industry, disrupt yourself, you'll be left behind.”",
+    author: "John Chambers",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "“We want to build technology that everybody loves using, and that affects everyone.”",
+    author: "Larry Page",
+  },
+  {
+    quote: "“Technology is best when it brings people together.”",
+    author: "Matt Mullenweg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "“The technology you use impresses no one. The experience you create with it is everything.”",
+    author: "Sean Gerety",
+  },
+  {
+    quote: "“Simplicity is the ultimate sophistication.”",
+    author: "Leonardo da Vinci",
+  },
+  {
+    quote:
+      "“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”",
+    author: "Alan Watts",
+  },
+  {
+    quote: "“Technology is a useful servant but a dangerous master.”",
+    author: "Christian Lous Lange",
+  },
+  {
+    quote:
+      "“The real problem is not whether machines think but whether men do.”",
+    author: "B.F. Skinner",
+  },
+  {
+    quote: "“Technology should improve your life… not become your life.”",
+    author: "Billy Cox",
+  },
+  {
+    quote:
+      "“Our business is about technology, yes. But it’s also about operations and customer relationships.”",
+    author: "Michael Dell",
+  },
+  {
+    quote: "“The only way to do great work is to love what you do.”",
+    author: "Steve Jobs",
+  },
+  {
+    quote:
+      "“Success is not final, failure is not fatal: It is the courage to continue that counts.”",
+    author: "Winston Churchill",
+  },
+  {
+    quote:
+      "“Success usually comes to those who are too busy to be looking for it.”",
+    author: "Henry David Thoreau",
+  },
+  {
+    quote: "“Don’t watch the clock; do what it does. Keep going.”",
+    author: "Sam Levenson",
+  },
+  {
+    quote:
+      "“The future belongs to those who believe in the beauty of their dreams.”",
+    author: "Eleanor Roosevelt",
   },
 ];
 
@@ -177,28 +235,25 @@ export const workExperience = [
     id: 1,
     title: "Frontend Engineer Intern",
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    company: "Dizit LTD",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "MERN Stack Web Developer Full-Time",
+    company: "Dizit It",
+    desc: "Designed and developed a web-based application  using React.js, Node.js, MongoDB & Express.js",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
+    title: "Freelance Web Developer",
+
+    desc: "Led the dev of a web app for a client, from initial concept to deployment.",
+    company: "Freelance",
+    className: "md:col-span-2 lg:col-start-1 lg:col-end-3", // change to md:col-span-2
     thumbnail: "/exp4.svg",
   },
 ];

@@ -11,9 +11,10 @@
   "dependencies": {
     "@react-three/drei": "^9.105.6",
     "@react-three/fiber": "^8.16.6",
+    "@sentry/nextjs": "^8.48.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.2.6",
+    "framer-motion": "^11.18.0",
     "lucide-react": "^0.379.0",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.2.3",
