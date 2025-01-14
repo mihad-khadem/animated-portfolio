@@ -11,7 +11,8 @@ export const TextGenerateEffect = ({
   className?: string;
 }) => {
   const [scope, animate] = useAnimate();
-  let wordsArray = words.split(" ");
+  const wordsArray = words.split(" ");
+
   useEffect(() => {
     animate(
       "span",
@@ -33,8 +34,21 @@ export const TextGenerateEffect = ({
             <motion.span
               key={word + idx}
               className={`text-[40px] md:text-3xl lg:text-5xl ${
-                idx > 2 ? "text-purple" : "dark:text-white text-black"
+                idx > 2 ? "text-blue-600" : "dark:text-white text-black"
               } opacity-0`}
+              initial={{ textShadow: "0px 0px 0px rgba(0, 0, 255, 0.5)" }}
+              animate={{
+                textShadow: [
+                  "0px 0px 5px rgba(0, 0, 255, 0.5)",
+                  "0px 0px 20px rgba(0, 0, 255, 1)",
+                  "0px 0px 5px rgba(0, 0, 255, 0.5)",
+                ],
+              }}
+              transition={{
+                duration: 2,
+                repeat: Infinity,
+                repeatType: "mirror",
+              }}
             >
               {word}{" "}
             </motion.span>
@@ -47,7 +61,7 @@ export const TextGenerateEffect = ({
   return (
     <div className={cn("font-bold", className)}>
       <div className="my-4">
-        <div className=" dark:text-white text-black text-2xl leading-snug tracking-wide">
+        <div className="dark:text-white text-black text-2xl leading-snug tracking-wide">
           {renderWords()}
         </div>
       </div>
