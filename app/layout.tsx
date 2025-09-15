@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/app/provider";
 const inter = Inter({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
-  title: "Animated Portfolio",
+  title: "Mihad Khadem",
   description: "Animated Web-Portfolio for Mihad Khadem",
 };
 
