@@ -44,7 +44,9 @@
           ]
         ]
       },
-      "properties": { "name": "Afghanistan" },
+      "properties": {
+        "name": "Afghanistan"
+      },
       "id": "AF"
     },
     {
@@ -68,7 +70,9 @@
           ]
         ]
       },
-      "properties": { "name": "Albania" },
+      "properties": {
+        "name": "Albania"
+      },
       "id": "AL"
     },
     {
@@ -112,7 +116,9 @@
           ]
         ]
       },
-      "properties": { "name": "Algeria" },
+      "properties": {
+        "name": "Algeria"
+      },
       "id": "DZ"
     },
     {
@@ -138,7 +144,9 @@
           ]
         ]
       },
-      "properties": { "name": "Samoa" },
+      "properties": {
+        "name": "Samoa"
+      },
       "id": "WS"
     },
     {
@@ -156,7 +164,9 @@
           ]
         ]
       },
-      "properties": { "name": "Andorra" },
+      "properties": {
+        "name": "Andorra"
+      },
       "id": "AD"
     },
     {
@@ -205,7 +215,9 @@
           ]
         ]
       },
-      "properties": { "name": "Angola" },
+      "properties": {
+        "name": "Angola"
+      },
       "id": "AO"
     },
     {
@@ -231,7 +243,9 @@
           ]
         ]
       },
-      "properties": { "name": "Antigua and Barbuda" },
+      "properties": {
+        "name": "Antigua and Barbuda"
+      },
       "id": "AG"
     },
     {
@@ -282,7 +296,9 @@
           ]
         ]
       },
-      "properties": { "name": "Azerbaijan" },
+      "properties": {
+        "name": "Azerbaijan"
+      },
       "id": "AZ"
     },
     {
@@ -392,7 +408,9 @@
           ]
         ]
       },
-      "properties": { "name": "Argentina" },
+      "properties": {
+        "name": "Argentina"
+      },
       "id": "AR"
     },
     {
@@ -535,7 +553,9 @@
           ]
         ]
       },
-      "properties": { "name": "Australia" },
+      "properties": {
+        "name": "Australia"
+      },
       "id": "AU"
     },
     {
@@ -566,7 +586,9 @@
           ]
         ]
       },
-      "properties": { "name": "Austria" },
+      "properties": {
+        "name": "Austria"
+      },
       "id": "AT"
     },
     {
@@ -618,7 +640,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bahamas, The" },
+      "properties": {
+        "name": "Bahamas, The"
+      },
       "id": "BS"
     },
     {
@@ -636,7 +660,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bahrain" },
+      "properties": {
+        "name": "Bahrain"
+      },
       "id": "BH"
     },
     {
@@ -691,7 +717,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bangladesh" },
+      "properties": {
+        "name": "Bangladesh"
+      },
       "id": "BD"
     },
     {
@@ -724,7 +752,9 @@
           ]
         ]
       },
-      "properties": { "name": "Armenia" },
+      "properties": {
+        "name": "Armenia"
+      },
       "id": "AM"
     },
     {
@@ -742,7 +772,9 @@
           ]
         ]
       },
-      "properties": { "name": "Barbados" },
+      "properties": {
+        "name": "Barbados"
+      },
       "id": "BB"
     },
     {
@@ -769,7 +801,9 @@
           ]
         ]
       },
-      "properties": { "name": "Belgium" },
+      "properties": {
+        "name": "Belgium"
+      },
       "id": "BE"
     },
     {
@@ -787,7 +821,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bermuda" },
+      "properties": {
+        "name": "Bermuda"
+      },
       "id": "BM"
     },
     {
@@ -808,7 +844,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bhutan" },
+      "properties": {
+        "name": "Bhutan"
+      },
       "id": "BT"
     },
     {
@@ -852,7 +890,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bolivia" },
+      "properties": {
+        "name": "Bolivia"
+      },
       "id": "BO"
     },
     {
@@ -875,7 +915,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bosnia and Herzegovina" },
+      "properties": {
+        "name": "Bosnia and Herzegovina"
+      },
       "id": "BA"
     },
     {
@@ -907,7 +949,9 @@
           ]
         ]
       },
-      "properties": { "name": "Botswana" },
+      "properties": {
+        "name": "Botswana"
+      },
       "id": "BW"
     },
     {
@@ -925,7 +969,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bouvet Island" },
+      "properties": {
+        "name": "Bouvet Island"
+      },
       "id": "BV"
     },
     {
@@ -1090,7 +1136,9 @@
           ]
         ]
       },
-      "properties": { "name": "Brazil" },
+      "properties": {
+        "name": "Brazil"
+      },
       "id": "BR"
     },
     {
@@ -1111,7 +1159,9 @@
           ]
         ]
       },
-      "properties": { "name": "Belize" },
+      "properties": {
+        "name": "Belize"
+      },
       "id": "BZ"
     },
     {
@@ -1129,7 +1179,9 @@
           ]
         ]
       },
-      "properties": { "name": "British Indian Ocean Territory" },
+      "properties": {
+        "name": "British Indian Ocean Territory"
+      },
       "id": "IO"
     },
     {
@@ -1188,7 +1240,9 @@
           ]
         ]
       },
-      "properties": { "name": "Solomon Islands" },
+      "properties": {
+        "name": "Solomon Islands"
+      },
       "id": "SB"
     },
     {
@@ -1206,7 +1260,9 @@
           ]
         ]
       },
-      "properties": { "name": "British Virgin Islands" },
+      "properties": {
+        "name": "British Virgin Islands"
+      },
       "id": "VG"
     },
     {
@@ -1234,7 +1290,9 @@
           ]
         ]
       },
-      "properties": { "name": "Brunei" },
+      "properties": {
+        "name": "Brunei"
+      },
       "id": "BN"
     },
     {
@@ -1264,7 +1322,9 @@
           ]
         ]
       },
-      "properties": { "name": "Bulgaria" },
+      "properties": {
+        "name": "Bulgaria"
+      },
       "id": "BG"
     },
     {
@@ -1333,7 +1393,9 @@
           ]
         ]
       },
-      "properties": { "name": "Burma" },
+      "properties": {
+        "name": "Burma"
+      },
       "id": "MM"
     },
     {
@@ -1355,7 +1417,9 @@
           ]
         ]
       },
-      "properties": { "name": "Burundi" },
+      "properties": {
+        "name": "Burundi"
+      },
       "id": "BI"
     },
     {
@@ -1388,7 +1452,9 @@
           ]
         ]
       },
-      "properties": { "name": "Belarus" },
+      "properties": {
+        "name": "Belarus"
+      },
       "id": "BY"
     },
     {
@@ -1419,7 +1485,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cambodia" },
+      "properties": {
+        "name": "Cambodia"
+      },
       "id": "KH"
     },
     {
@@ -1459,7 +1527,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cameroon" },
+      "properties": {
+        "name": "Cameroon"
+      },
       "id": "CM"
     },
     {
@@ -2498,7 +2568,9 @@
           ]
         ]
       },
-      "properties": { "name": "Canada" },
+      "properties": {
+        "name": "Canada"
+      },
       "id": "CA"
     },
     {
@@ -2548,7 +2620,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cape Verde" },
+      "properties": {
+        "name": "Cape Verde"
+      },
       "id": "CV"
     },
     {
@@ -2566,7 +2640,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cayman Islands" },
+      "properties": {
+        "name": "Cayman Islands"
+      },
       "id": "KY"
     },
     {
@@ -2603,7 +2679,9 @@
           ]
         ]
       },
-      "properties": { "name": "Central African Republic" },
+      "properties": {
+        "name": "Central African Republic"
+      },
       "id": "CF"
     },
     {
@@ -2630,7 +2708,9 @@
           ]
         ]
       },
-      "properties": { "name": "Sri Lanka" },
+      "properties": {
+        "name": "Sri Lanka"
+      },
       "id": "LK"
     },
     {
@@ -2670,7 +2750,9 @@
           ]
         ]
       },
-      "properties": { "name": "Chad" },
+      "properties": {
+        "name": "Chad"
+      },
       "id": "TD"
     },
     {
@@ -3091,7 +3173,9 @@
           ]
         ]
       },
-      "properties": { "name": "Chile" },
+      "properties": {
+        "name": "Chile"
+      },
       "id": "CL"
     },
     {
@@ -3284,7 +3368,9 @@
           ]
         ]
       },
-      "properties": { "name": "China" },
+      "properties": {
+        "name": "China"
+      },
       "id": "CN"
     },
     {
@@ -3304,7 +3390,9 @@
           ]
         ]
       },
-      "properties": { "name": "Taiwan" },
+      "properties": {
+        "name": "Taiwan"
+      },
       "id": "TW"
     },
     {
@@ -3322,7 +3410,9 @@
           ]
         ]
       },
-      "properties": { "name": "Christmas Island" },
+      "properties": {
+        "name": "Christmas Island"
+      },
       "id": "CX"
     },
     {
@@ -3340,7 +3430,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cocos (Keeling) Islands" },
+      "properties": {
+        "name": "Cocos (Keeling) Islands"
+      },
       "id": "CC"
     },
     {
@@ -3403,7 +3495,9 @@
           ]
         ]
       },
-      "properties": { "name": "Colombia" },
+      "properties": {
+        "name": "Colombia"
+      },
       "id": "CO"
     },
     {
@@ -3429,7 +3523,9 @@
           ]
         ]
       },
-      "properties": { "name": "Comoros" },
+      "properties": {
+        "name": "Comoros"
+      },
       "id": "KM"
     },
     {
@@ -3447,7 +3543,9 @@
           ]
         ]
       },
-      "properties": { "name": "Mayotte" },
+      "properties": {
+        "name": "Mayotte"
+      },
       "id": "YT"
     },
     {
@@ -3490,7 +3588,9 @@
           ]
         ]
       },
-      "properties": { "name": "Congo, Republic of the" },
+      "properties": {
+        "name": "Congo, Republic of the"
+      },
       "id": "CG"
     },
     {
@@ -3556,7 +3656,9 @@
           ]
         ]
       },
-      "properties": { "name": "Congo, Democratic Republic of the" },
+      "properties": {
+        "name": "Congo, Democratic Republic of the"
+      },
       "id": "CD"
     },
     {
@@ -3590,7 +3692,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cook Islands" },
+      "properties": {
+        "name": "Cook Islands"
+      },
       "id": "CK"
     },
     {
@@ -3615,7 +3719,9 @@
           ]
         ]
       },
-      "properties": { "name": "Costa Rica" },
+      "properties": {
+        "name": "Costa Rica"
+      },
       "id": "CR"
     },
     {
@@ -3683,7 +3789,9 @@
           ]
         ]
       },
-      "properties": { "name": "Croatia" },
+      "properties": {
+        "name": "Croatia"
+      },
       "id": "HR"
     },
     {
@@ -3725,7 +3833,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cuba" },
+      "properties": {
+        "name": "Cuba"
+      },
       "id": "CU"
     },
     {
@@ -3744,7 +3854,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cyprus" },
+      "properties": {
+        "name": "Cyprus"
+      },
       "id": "CY"
     },
     {
@@ -3769,7 +3881,9 @@
           ]
         ]
       },
-      "properties": { "name": "Czech Republic" },
+      "properties": {
+        "name": "Czech Republic"
+      },
       "id": "CZ"
     },
     {
@@ -3795,7 +3909,9 @@
           ]
         ]
       },
-      "properties": { "name": "Benin" },
+      "properties": {
+        "name": "Benin"
+      },
       "id": "BJ"
     },
     {
@@ -3872,7 +3988,9 @@
           ]
         ]
       },
-      "properties": { "name": "Denmark" },
+      "properties": {
+        "name": "Denmark"
+      },
       "id": "DK"
     },
     {
@@ -3890,7 +4008,9 @@
           ]
         ]
       },
-      "properties": { "name": "Dominica" },
+      "properties": {
+        "name": "Dominica"
+      },
       "id": "DM"
     },
     {
@@ -3914,7 +4034,9 @@
           ]
         ]
       },
-      "properties": { "name": "Dominican Republic" },
+      "properties": {
+        "name": "Dominican Republic"
+      },
       "id": "DO"
     },
     {
@@ -3958,7 +4080,9 @@
           ]
         ]
       },
-      "properties": { "name": "Ecuador" },
+      "properties": {
+        "name": "Ecuador"
+      },
       "id": "EC"
     },
     {
@@ -3979,7 +4103,9 @@
           ]
         ]
       },
-      "properties": { "name": "El Salvador" },
+      "properties": {
+        "name": "El Salvador"
+      },
       "id": "SV"
     },
     {
@@ -4000,7 +4126,9 @@
           ]
         ]
       },
-      "properties": { "name": "Equatorial Guinea" },
+      "properties": {
+        "name": "Equatorial Guinea"
+      },
       "id": "GQ"
     },
     {
@@ -4041,7 +4169,9 @@
           ]
         ]
       },
-      "properties": { "name": "Ethiopia" },
+      "properties": {
+        "name": "Ethiopia"
+      },
       "id": "ET"
     },
     {
@@ -4070,7 +4200,9 @@
           ]
         ]
       },
-      "properties": { "name": "Eritrea" },
+      "properties": {
+        "name": "Eritrea"
+      },
       "id": "ER"
     },
     {
@@ -4112,7 +4244,9 @@
           ]
         ]
       },
-      "properties": { "name": "Estonia" },
+      "properties": {
+        "name": "Estonia"
+      },
       "id": "EE"
     },
     {
@@ -4146,7 +4280,9 @@
           ]
         ]
       },
-      "properties": { "name": "Faroe Islands" },
+      "properties": {
+        "name": "Faroe Islands"
+      },
       "id": "FO"
     },
     {
@@ -4174,7 +4310,9 @@
           ]
         ]
       },
-      "properties": { "name": "Falkland Islands (Islas Malvinas)" },
+      "properties": {
+        "name": "Falkland Islands (Islas Malvinas)"
+      },
       "id": "FK"
     },
     {
@@ -4192,7 +4330,9 @@
           ]
         ]
       },
-      "properties": { "name": "South Georgia South Sandwich Islands" },
+      "properties": {
+        "name": "South Georgia South Sandwich Islands"
+      },
       "id": "GS"
     },
     {
@@ -4220,7 +4360,9 @@
           ]
         ]
       },
-      "properties": { "name": "Fiji" },
+      "properties": {
+        "name": "Fiji"
+      },
       "id": "FJ"
     },
     {
@@ -4269,7 +4411,9 @@
           ]
         ]
       },
-      "properties": { "name": "Finland" },
+      "properties": {
+        "name": "Finland"
+      },
       "id": "FI"
     },
     {
@@ -4287,7 +4431,9 @@
           ]
         ]
       },
-      "properties": { "name": "Aland Islands" },
+      "properties": {
+        "name": "Aland Islands"
+      },
       "id": "AX"
     },
     {
@@ -4358,7 +4504,9 @@
           ]
         ]
       },
-      "properties": { "name": "France" },
+      "properties": {
+        "name": "France"
+      },
       "id": "FR"
     },
     {
@@ -4384,7 +4532,9 @@
           ]
         ]
       },
-      "properties": { "name": "French Guiana" },
+      "properties": {
+        "name": "French Guiana"
+      },
       "id": "GF"
     },
     {
@@ -4426,7 +4576,9 @@
           ]
         ]
       },
-      "properties": { "name": "French Polynesia" },
+      "properties": {
+        "name": "French Polynesia"
+      },
       "id": "PF"
     },
     {
@@ -4447,7 +4599,9 @@
           ]
         ]
       },
-      "properties": { "name": "French Southern and Antarctic Lands" },
+      "properties": {
+        "name": "French Southern and Antarctic Lands"
+      },
       "id": "TF"
     },
     {
@@ -4470,7 +4624,9 @@
           ]
         ]
       },
-      "properties": { "name": "Djibouti" },
+      "properties": {
+        "name": "Djibouti"
+      },
       "id": "DJ"
     },
     {
@@ -4510,7 +4666,9 @@
           ]
         ]
       },
-      "properties": { "name": "Gabon" },
+      "properties": {
+        "name": "Gabon"
+      },
       "id": "GA"
     },
     {
@@ -4536,7 +4694,9 @@
           ]
         ]
       },
-      "properties": { "name": "Georgia" },
+      "properties": {
+        "name": "Georgia"
+      },
       "id": "GE"
     },
     {
@@ -4565,7 +4725,9 @@
           ]
         ]
       },
-      "properties": { "name": "Gambia, The" },
+      "properties": {
+        "name": "Gambia, The"
+      },
       "id": "GM"
     },
     {
@@ -4599,7 +4761,9 @@
           ]
         ]
       },
-      "properties": { "name": "Palestine" },
+      "properties": {
+        "name": "Palestine"
+      },
       "id": "PS"
     },
     {
@@ -4645,7 +4809,9 @@
           ]
         ]
       },
-      "properties": { "name": "Germany" },
+      "properties": {
+        "name": "Germany"
+      },
       "id": "DE"
     },
     {
@@ -4686,7 +4852,9 @@
           ]
         ]
       },
-      "properties": { "name": "Ghana" },
+      "properties": {
+        "name": "Ghana"
+      },
       "id": "GH"
     },
     {
@@ -4704,7 +4872,9 @@
           ]
         ]
       },
-      "properties": { "name": "Gibraltar" },
+      "properties": {
+        "name": "Gibraltar"
+      },
       "id": "GI"
     },
     {
@@ -4762,7 +4932,9 @@
           ]
         ]
       },
-      "properties": { "name": "Kiribati" },
+      "properties": {
+        "name": "Kiribati"
+      },
       "id": "KI"
     },
     {
@@ -4829,7 +5001,9 @@
           ]
         ]
       },
-      "properties": { "name": "Greece" },
+      "properties": {
+        "name": "Greece"
+      },
       "id": "GR"
     },
     {
@@ -5182,7 +5356,9 @@
           ]
         ]
       },
-      "properties": { "name": "Greenland" },
+      "properties": {
+        "name": "Greenland"
+      },
       "id": "GL"
     },
     {
@@ -5208,7 +5384,9 @@
           ]
         ]
       },
-      "properties": { "name": "Grenada" },
+      "properties": {
+        "name": "Grenada"
+      },
       "id": "GD"
     },
     {
@@ -5226,7 +5404,9 @@
           ]
         ]
       },
-      "properties": { "name": "Guadeloupe" },
+      "properties": {
+        "name": "Guadeloupe"
+      },
       "id": "GP"
     },
     {
@@ -5244,7 +5424,9 @@
           ]
         ]
       },
-      "properties": { "name": "Guam" },
+      "properties": {
+        "name": "Guam"
+      },
       "id": "GU"
     },
     {
@@ -5272,7 +5454,9 @@
           ]
         ]
       },
-      "properties": { "name": "Guatemala" },
+      "properties": {
+        "name": "Guatemala"
+      },
       "id": "GT"
     },
     {
@@ -5311,7 +5495,9 @@
           ]
         ]
       },
-      "properties": { "name": "Guinea" },
+      "properties": {
+        "name": "Guinea"
+      },
       "id": "GN"
     },
     {
@@ -5347,7 +5533,9 @@
           ]
         ]
       },
-      "properties": { "name": "Guyana" },
+      "properties": {
+        "name": "Guyana"
+      },
       "id": "GY"
     },
     {
@@ -5370,7 +5558,9 @@
           ]
         ]
       },
-      "properties": { "name": "Haiti" },
+      "properties": {
+        "name": "Haiti"
+      },
       "id": "HT"
     },
     {
@@ -5388,7 +5578,9 @@
           ]
         ]
       },
-      "properties": { "name": "Heard Island and McDonald Islands" },
+      "properties": {
+        "name": "Heard Island and McDonald Islands"
+      },
       "id": "HM"
     },
     {
@@ -5406,7 +5598,9 @@
           ]
         ]
       },
-      "properties": { "name": "Holy See (Vatican City)" },
+      "properties": {
+        "name": "Holy See (Vatican City)"
+      },
       "id": "VA"
     },
     {
@@ -5432,7 +5626,9 @@
           ]
         ]
       },
-      "properties": { "name": "Honduras" },
+      "properties": {
+        "name": "Honduras"
+      },
       "id": "HN"
     },
     {
@@ -5466,7 +5662,9 @@
           ]
         ]
       },
-      "properties": { "name": "Hong Kong" },
+      "properties": {
+        "name": "Hong Kong"
+      },
       "id": "HK"
     },
     {
@@ -5495,7 +5693,9 @@
           ]
         ]
       },
-      "properties": { "name": "Hungary" },
+      "properties": {
+        "name": "Hungary"
+      },
       "id": "HU"
     },
     {
@@ -5544,7 +5744,9 @@
           ]
         ]
       },
-      "properties": { "name": "Iceland" },
+      "properties": {
+        "name": "Iceland"
+      },
       "id": "IS"
     },
     {
@@ -5654,7 +5856,9 @@
           ]
         ]
       },
-      "properties": { "name": "India" },
+      "properties": {
+        "name": "India"
+      },
       "id": "IN"
     },
     {
@@ -6048,7 +6252,9 @@
           ]
         ]
       },
-      "properties": { "name": "Indonesia" },
+      "properties": {
+        "name": "Indonesia"
+      },
       "id": "ID"
     },
     {
@@ -6112,7 +6318,9 @@
           ]
         ]
       },
-      "properties": { "name": "Iran" },
+      "properties": {
+        "name": "Iran"
+      },
       "id": "IR"
     },
     {
@@ -6148,7 +6356,9 @@
           ]
         ]
       },
-      "properties": { "name": "Iraq" },
+      "properties": {
+        "name": "Iraq"
+      },
       "id": "IQ"
     },
     {
@@ -6184,7 +6394,9 @@
           ]
         ]
       },
-      "properties": { "name": "Ireland" },
+      "properties": {
+        "name": "Ireland"
+      },
       "id": "IE"
     },
     {
@@ -6219,7 +6431,9 @@
           ]
         ]
       },
-      "properties": { "name": "Israel" },
+      "properties": {
+        "name": "Israel"
+      },
       "id": "IL"
     },
     {
@@ -6298,7 +6512,9 @@
           ]
         ]
       },
-      "properties": { "name": "Italy" },
+      "properties": {
+        "name": "Italy"
+      },
       "id": "IT"
     },
     {
@@ -6332,7 +6548,9 @@
           ]
         ]
       },
-      "properties": { "name": "Cote d'Ivoire" },
+      "properties": {
+        "name": "Cote d'Ivoire"
+      },
       "id": "CI"
     },
     {
@@ -6351,7 +6569,9 @@
           ]
         ]
       },
-      "properties": { "name": "Jamaica" },
+      "properties": {
+        "name": "Jamaica"
+      },
       "id": "JM"
     },
     {
@@ -6457,7 +6677,9 @@
           ]
         ]
       },
-      "properties": { "name": "Japan" },
+      "properties": {
+        "name": "Japan"
+      },
       "id": "JP"
     },
     {
@@ -6557,7 +6779,9 @@
           ]
         ]
       },
-      "properties": { "name": "Kazakhstan" },
+      "properties": {
+        "name": "Kazakhstan"
+      },
       "id": "KZ"
     },
     {
@@ -6584,7 +6808,9 @@
           ]
         ]
       },
-      "properties": { "name": "Jordan" },
+      "properties": {
+        "name": "Jordan"
+      },
       "id": "JO"
     },
     {
@@ -6615,7 +6841,9 @@
           ]
         ]
       },
-      "properties": { "name": "Kenya" },
+      "properties": {
+        "name": "Kenya"
+      },
       "id": "KE"
     },
     {
@@ -6652,7 +6880,9 @@
           ]
         ]
       },
-      "properties": { "name": "Korea, North" },
+      "properties": {
+        "name": "Korea, North"
+      },
       "id": "KP"
     },
     {
@@ -6677,7 +6907,9 @@
           ]
         ]
       },
-      "properties": { "name": "Korea, South" },
+      "properties": {
+        "name": "Korea, South"
+      },
       "id": "KR"
     },
     {
@@ -6699,7 +6931,9 @@
           ]
         ]
       },
-      "properties": { "name": "Kuwait" },
+      "properties": {
+        "name": "Kuwait"
+      },
       "id": "KW"
     },
     {
@@ -6734,7 +6968,9 @@
           ]
         ]
       },
-      "properties": { "name": "Kyrgyzstan" },
+      "properties": {
+        "name": "Kyrgyzstan"
+      },
       "id": "KG"
     },
     {
@@ -6779,7 +7015,9 @@
           ]
         ]
       },
-      "properties": { "name": "Laos" },
+      "properties": {
+        "name": "Laos"
+      },
       "id": "LA"
     },
     {
@@ -6798,7 +7036,9 @@
           ]
         ]
       },
-      "properties": { "name": "Lebanon" },
+      "properties": {
+        "name": "Lebanon"
+      },
       "id": "LB"
     },
     {
@@ -6819,7 +7059,9 @@
           ]
         ]
       },
-      "properties": { "name": "Lesotho" },
+      "properties": {
+        "name": "Lesotho"
+      },
       "id": "LS"
     },
     {
@@ -6847,7 +7089,9 @@
           ]
         ]
       },
-      "properties": { "name": "Latvia" },
+      "properties": {
+        "name": "Latvia"
+      },
       "id": "LV"
     },
     {
@@ -6871,7 +7115,9 @@
           ]
         ]
       },
-      "properties": { "name": "Liberia" },
+      "properties": {
+        "name": "Liberia"
+      },
       "id": "LR"
     },
     {
@@ -6912,7 +7158,9 @@
           ]
         ]
       },
-      "properties": { "name": "Libya" },
+      "properties": {
+        "name": "Libya"
+      },
       "id": "LY"
     },
     {
@@ -6930,7 +7178,9 @@
           ]
         ]
       },
-      "properties": { "name": "Liechtenstein" },
+      "properties": {
+        "name": "Liechtenstein"
+      },
       "id": "LI"
     },
     {
@@ -6956,7 +7206,9 @@
           ]
         ]
       },
-      "properties": { "name": "Lithuania" },
+      "properties": {
+        "name": "Lithuania"
+      },
       "id": "LT"
     },
     {
@@ -6975,7 +7227,9 @@
           ]
         ]
       },
-      "properties": { "name": "Luxembourg" },
+      "properties": {
+        "name": "Luxembourg"
+      },
       "id": "LU"
     },
     {
@@ -6993,7 +7247,9 @@
           ]
         ]
       },
-      "properties": { "name": "Macau" },
+      "properties": {
+        "name": "Macau"
+      },
       "id": "MO"
     },
     {
@@ -7029,7 +7285,9 @@
           ]
         ]
       },
-      "properties": { "name": "Madagascar" },
+      "properties": {
+        "name": "Madagascar"
+      },
       "id": "MG"
     },
     {
@@ -7079,7 +7337,9 @@
           ]
         ]
       },
-      "properties": { "name": "Malawi" },
+      "properties": {
+        "name": "Malawi"
+      },
       "id": "MW"
     },
     {
@@ -7137,7 +7397,9 @@
           ]
         ]
       },
-      "properties": { "name": "Malaysia" },
+      "properties": {
+        "name": "Malaysia"
+      },
       "id": "MY"
     },
     {
@@ -7195,7 +7457,9 @@
           ]
         ]
       },
-      "properties": { "name": "Maldives" },
+      "properties": {
+        "name": "Maldives"
+      },
       "id": "MV"
     },
     {
@@ -7242,7 +7506,9 @@
           ]
         ]
       },
-      "properties": { "name": "Mali" },
+      "properties": {
+        "name": "Mali"
+      },
       "id": "ML"
     },
     {
@@ -7268,7 +7534,9 @@
           ]
         ]
       },
-      "properties": { "name": "Malta" },
+      "properties": {
+        "name": "Malta"
+      },
       "id": "MT"
     },
     {
@@ -7286,7 +7554,9 @@
           ]
         ]
       },
-      "properties": { "name": "Martinique" },
+      "properties": {
+        "name": "Martinique"
+      },
       "id": "MQ"
     },
     {
@@ -7325,7 +7595,9 @@
           ]
         ]
       },
-      "properties": { "name": "Mauritania" },
+      "properties": {
+        "name": "Mauritania"
+      },
       "id": "MR"
     },
     {
@@ -7343,7 +7615,9 @@
           ]
         ]
       },
-      "properties": { "name": "Mauritius" },
+      "properties": {
+        "name": "Mauritius"
+      },
       "id": "MU"
     },
     {
@@ -7429,7 +7703,9 @@
           ]
         ]
       },
-      "properties": { "name": "Mexico" },
+      "properties": {
+        "name": "Mexico"
+      },
       "id": "MX"
     },
     {
@@ -7447,7 +7723,9 @@
           ]
         ]
       },
-      "properties": { "name": "Monaco" },
+      "properties": {
+        "name": "Monaco"
+      },
       "id": "MC"
     },
     {
@@ -7495,7 +7773,9 @@
           ]
         ]
       },
-      "properties": { "name": "Mongolia" },
+      "properties": {
+        "name": "Mongolia"
+      },
       "id": "MN"
     },
     {
@@ -7518,7 +7798,9 @@
           ]
         ]
       },
-      "properties": { "name": "Moldova" },
+      "properties": {
+        "name": "Moldova"
+      },
       "id": "MD"
     },
     {
@@ -7540,7 +7822,9 @@
           ]
         ]
       },
-      "properties": { "name": "Montenegro" },
+      "properties": {
+        "name": "Montenegro"
+      },
       "id": "ME"
     },
     {
@@ -7558,7 +7842,9 @@
           ]
         ]
       },
-      "properties": { "name": "Montserrat" },
+      "properties": {
+        "name": "Montserrat"
+      },
       "id": "MS"
     },
     {
@@ -7590,7 +7876,9 @@
           ]
         ]
       },
-      "properties": { "name": "Morocco" },
+      "properties": {
+        "name": "Morocco"
+      },
       "id": "MA"
     },
     {
@@ -7654,7 +7942,9 @@
           ]
         ]
       },
-      "properties": { "name": "Mozambique" },
+      "properties": {
+        "name": "Mozambique"
+      },
       "id": "MZ"
     },
     {
@@ -7695,7 +7985,9 @@
           ]
         ]
       },
-      "properties": { "name": "Oman" },
+      "properties": {
+        "name": "Oman"
+      },
       "id": "OM"
     },
     {
@@ -7733,7 +8025,9 @@
           ]
         ]
       },
-      "properties": { "name": "Namibia" },
+      "properties": {
+        "name": "Namibia"
+      },
       "id": "NA"
     },
     {
@@ -7751,7 +8045,9 @@
           ]
         ]
       },
-      "properties": { "name": "Nauru" },
+      "properties": {
+        "name": "Nauru"
+      },
       "id": "NR"
     },
     {
@@ -7776,7 +8072,9 @@
           ]
         ]
       },
-      "properties": { "name": "Nepal" },
+      "properties": {
+        "name": "Nepal"
+      },
       "id": "NP"
     },
     {
@@ -7848,7 +8146,9 @@
           ]
         ]
       },
-      "properties": { "name": "Netherlands" },
+      "properties": {
+        "name": "Netherlands"
+      },
       "id": "NL"
     },
     {
@@ -7874,7 +8174,9 @@
           ]
         ]
       },
-      "properties": { "name": "Netherlands Antilles" },
+      "properties": {
+        "name": "Netherlands Antilles"
+      },
       "id": "AN"
     },
     {
@@ -7892,7 +8194,9 @@
           ]
         ]
       },
-      "properties": { "name": "Aruba" },
+      "properties": {
+        "name": "Aruba"
+      },
       "id": "AW"
     },
     {
@@ -7911,7 +8215,9 @@
           ]
         ]
       },
-      "properties": { "name": "New Caledonia" },
+      "properties": {
+        "name": "New Caledonia"
+      },
       "id": "NC"
     },
     {
@@ -7939,7 +8245,9 @@
           ]
         ]
       },
-      "properties": { "name": "Vanuatu" },
+      "properties": {
+        "name": "Vanuatu"
+      },
       "id": "VU"
     },
     {
@@ -8001,7 +8309,9 @@
           ]
         ]
       },
-      "properties": { "name": "New Zealand" },
+      "properties": {
+        "name": "New Zealand"
+      },
       "id": "NZ"
     },
     {
@@ -8025,7 +8335,9 @@
           ]
         ]
       },
-      "properties": { "name": "Nicaragua" },
+      "properties": {
+        "name": "Nicaragua"
+      },
       "id": "NI"
     },
     {
@@ -8068,7 +8380,9 @@
           ]
         ]
       },
-      "properties": { "name": "Niger" },
+      "properties": {
+        "name": "Niger"
+      },
       "id": "NE"
     },
     {
@@ -8113,7 +8427,9 @@
           ]
         ]
       },
-      "properties": { "name": "Nigeria" },
+      "properties": {
+        "name": "Nigeria"
+      },
       "id": "NG"
     },
     {
@@ -8131,7 +8447,9 @@
           ]
         ]
       },
-      "properties": { "name": "Niue" },
+      "properties": {
+        "name": "Niue"
+      },
       "id": "NU"
     },
     {
@@ -8149,7 +8467,9 @@
           ]
         ]
       },
-      "properties": { "name": "Norfolk Island" },
+      "properties": {
+        "name": "Norfolk Island"
+      },
       "id": "NF"
     },
     {
@@ -8403,7 +8723,9 @@
           ]
         ]
       },
-      "properties": { "name": "Norway" },
+      "properties": {
+        "name": "Norway"
+      },
       "id": "NO"
     },
     {
@@ -8453,7 +8775,9 @@
           ]
         ]
       },
-      "properties": { "name": "Northern Mariana Islands" },
+      "properties": {
+        "name": "Northern Mariana Islands"
+      },
       "id": "MP"
     },
     {
@@ -8487,7 +8811,9 @@
           ]
         ]
       },
-      "properties": { "name": "Micronesia, Federated States of" },
+      "properties": {
+        "name": "Micronesia, Federated States of"
+      },
       "id": "FM"
     },
     {
@@ -8521,7 +8847,9 @@
           ]
         ]
       },
-      "properties": { "name": "Marshall Islands" },
+      "properties": {
+        "name": "Marshall Islands"
+      },
       "id": "MH"
     },
     {
@@ -8539,7 +8867,9 @@
           ]
         ]
       },
-      "properties": { "name": "Palau" },
+      "properties": {
+        "name": "Palau"
+      },
       "id": "PW"
     },
     {
@@ -8594,7 +8924,9 @@
           ]
         ]
       },
-      "properties": { "name": "Pakistan" },
+      "properties": {
+        "name": "Pakistan"
+      },
       "id": "PK"
     },
     {
@@ -8626,7 +8958,9 @@
           ]
         ]
       },
-      "properties": { "name": "Panama" },
+      "properties": {
+        "name": "Panama"
+      },
       "id": "PA"
     },
     {
@@ -8685,7 +9019,9 @@
           ]
         ]
       },
-      "properties": { "name": "Papua New Guinea" },
+      "properties": {
+        "name": "Papua New Guinea"
+      },
       "id": "PG"
     },
     {
@@ -8716,7 +9052,9 @@
           ]
         ]
       },
-      "properties": { "name": "Paraguay" },
+      "properties": {
+        "name": "Paraguay"
+      },
       "id": "PY"
     },
     {
@@ -8769,7 +9107,9 @@
           ]
         ]
       },
-      "properties": { "name": "Peru" },
+      "properties": {
+        "name": "Peru"
+      },
       "id": "PE"
     },
     {
@@ -8914,7 +9254,9 @@
           ]
         ]
       },
-      "properties": { "name": "Philippines" },
+      "properties": {
+        "name": "Philippines"
+      },
       "id": "PH"
     },
     {
@@ -8932,7 +9274,9 @@
           ]
         ]
       },
-      "properties": { "name": "Pitcairn Islands" },
+      "properties": {
+        "name": "Pitcairn Islands"
+      },
       "id": "PN"
     },
     {
@@ -8963,7 +9307,9 @@
           ]
         ]
       },
-      "properties": { "name": "Poland" },
+      "properties": {
+        "name": "Poland"
+      },
       "id": "PL"
     },
     {
@@ -8993,7 +9339,9 @@
           ]
         ]
       },
-      "properties": { "name": "Portugal" },
+      "properties": {
+        "name": "Portugal"
+      },
       "id": "PT"
     },
     {
@@ -9022,7 +9370,9 @@
           ]
         ]
       },
-      "properties": { "name": "Guinea-Bissau" },
+      "properties": {
+        "name": "Guinea-Bissau"
+      },
       "id": "GW"
     },
     {
@@ -9049,7 +9399,9 @@
           ]
         ]
       },
-      "properties": { "name": "Timor-Leste" },
+      "properties": {
+        "name": "Timor-Leste"
+      },
       "id": "TL"
     },
     {
@@ -9067,7 +9419,9 @@
           ]
         ]
       },
-      "properties": { "name": "Puerto Rico" },
+      "properties": {
+        "name": "Puerto Rico"
+      },
       "id": "PR"
     },
     {
@@ -9087,7 +9441,9 @@
           ]
         ]
       },
-      "properties": { "name": "Qatar" },
+      "properties": {
+        "name": "Qatar"
+      },
       "id": "QA"
     },
     {
@@ -9105,7 +9461,9 @@
           ]
         ]
       },
-      "properties": { "name": "Reunion" },
+      "properties": {
+        "name": "Reunion"
+      },
       "id": "RE"
     },
     {
@@ -9137,7 +9495,9 @@
           ]
         ]
       },
-      "properties": { "name": "Romania" },
+      "properties": {
+        "name": "Romania"
+      },
       "id": "RO"
     },
     {
@@ -9762,7 +10122,9 @@
           ]
         ]
       },
-      "properties": { "name": "Russia" },
+      "properties": {
+        "name": "Russia"
+      },
       "id": "RU"
     },
     {
@@ -9784,7 +10146,9 @@
           ]
         ]
       },
-      "properties": { "name": "Rwanda" },
+      "properties": {
+        "name": "Rwanda"
+      },
       "id": "RW"
     },
     {
@@ -9802,7 +10166,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saint Barthelemy" },
+      "properties": {
+        "name": "Saint Barthelemy"
+      },
       "id": "BL"
     },
     {
@@ -9820,7 +10186,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saint Helena" },
+      "properties": {
+        "name": "Saint Helena"
+      },
       "id": "SH"
     },
     {
@@ -9846,7 +10214,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saint Kitts and Nevis" },
+      "properties": {
+        "name": "Saint Kitts and Nevis"
+      },
       "id": "KN"
     },
     {
@@ -9864,7 +10234,9 @@
           ]
         ]
       },
-      "properties": { "name": "Anguilla" },
+      "properties": {
+        "name": "Anguilla"
+      },
       "id": "AI"
     },
     {
@@ -9882,7 +10254,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saint Lucia" },
+      "properties": {
+        "name": "Saint Lucia"
+      },
       "id": "LC"
     },
     {
@@ -9900,7 +10274,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saint Martin" },
+      "properties": {
+        "name": "Saint Martin"
+      },
       "id": "MF"
     },
     {
@@ -9926,7 +10302,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saint Pierre and Miquelon" },
+      "properties": {
+        "name": "Saint Pierre and Miquelon"
+      },
       "id": "PM"
     },
     {
@@ -9944,7 +10322,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saint Vincent and the Grenadines" },
+      "properties": {
+        "name": "Saint Vincent and the Grenadines"
+      },
       "id": "VC"
     },
     {
@@ -9962,7 +10342,9 @@
           ]
         ]
       },
-      "properties": { "name": "San Marino" },
+      "properties": {
+        "name": "San Marino"
+      },
       "id": "SM"
     },
     {
@@ -9988,7 +10370,9 @@
           ]
         ]
       },
-      "properties": { "name": "Sao Tome and Principe" },
+      "properties": {
+        "name": "Sao Tome and Principe"
+      },
       "id": "ST"
     },
     {
@@ -10036,7 +10420,9 @@
           ]
         ]
       },
-      "properties": { "name": "Saudi Arabia" },
+      "properties": {
+        "name": "Saudi Arabia"
+      },
       "id": "SA"
     },
     {
@@ -10073,7 +10459,9 @@
           ]
         ]
       },
-      "properties": { "name": "Senegal" },
+      "properties": {
+        "name": "Senegal"
+      },
       "id": "SN"
     },
     {
@@ -10104,7 +10492,9 @@
           ]
         ]
       },
-      "properties": { "name": "Serbia" },
+      "properties": {
+        "name": "Serbia"
+      },
       "id": "RS"
     },
     {
@@ -10122,7 +10512,9 @@
           ]
         ]
       },
-      "properties": { "name": "Seychelles" },
+      "properties": {
+        "name": "Seychelles"
+      },
       "id": "SC"
     },
     {
@@ -10145,7 +10537,9 @@
           ]
         ]
       },
-      "properties": { "name": "Sierra Leone" },
+      "properties": {
+        "name": "Sierra Leone"
+      },
       "id": "SL"
     },
     {
@@ -10163,7 +10557,9 @@
           ]
         ]
       },
-      "properties": { "name": "Singapore" },
+      "properties": {
+        "name": "Singapore"
+      },
       "id": "SG"
     },
     {
@@ -10186,7 +10582,9 @@
           ]
         ]
       },
-      "properties": { "name": "Slovakia" },
+      "properties": {
+        "name": "Slovakia"
+      },
       "id": "SK"
     },
     {
@@ -10245,7 +10643,9 @@
           ]
         ]
       },
-      "properties": { "name": "Vietnam" },
+      "properties": {
+        "name": "Vietnam"
+      },
       "id": "VN"
     },
     {
@@ -10269,7 +10669,9 @@
           ]
         ]
       },
-      "properties": { "name": "Slovenia" },
+      "properties": {
+        "name": "Slovenia"
+      },
       "id": "SI"
     },
     {
@@ -10305,7 +10707,9 @@
           ]
         ]
       },
-      "properties": { "name": "Somalia" },
+      "properties": {
+        "name": "Somalia"
+      },
       "id": "SO"
     },
     {
@@ -10362,7 +10766,9 @@
           ]
         ]
       },
-      "properties": { "name": "South Africa" },
+      "properties": {
+        "name": "South Africa"
+      },
       "id": "ZA"
     },
     {
@@ -10393,7 +10799,9 @@
           ]
         ]
       },
-      "properties": { "name": "Zimbabwe" },
+      "properties": {
+        "name": "Zimbabwe"
+      },
       "id": "ZW"
     },
     {
@@ -10451,7 +10859,9 @@
           ]
         ]
       },
-      "properties": { "name": "Spain" },
+      "properties": {
+        "name": "Spain"
+      },
       "id": "ES"
     },
     {
@@ -10494,7 +10904,9 @@
           ]
         ]
       },
-      "properties": { "name": "Western Sahara" },
+      "properties": {
+        "name": "Western Sahara"
+      },
       "id": "EH"
     },
     {
@@ -10543,7 +10955,9 @@
           ]
         ]
       },
-      "properties": { "name": "Sudan" },
+      "properties": {
+        "name": "Sudan"
+      },
       "id": "SD"
     },
     {
@@ -10570,7 +10984,9 @@
           ]
         ]
       },
-      "properties": { "name": "Suriname" },
+      "properties": {
+        "name": "Suriname"
+      },
       "id": "SR"
     },
     {
@@ -10661,7 +11077,9 @@
           ]
         ]
       },
-      "properties": { "name": "Svalbard" },
+      "properties": {
+        "name": "Svalbard"
+      },
       "id": "SJ"
     },
     {
@@ -10682,7 +11100,9 @@
           ]
         ]
       },
-      "properties": { "name": "Swaziland" },
+      "properties": {
+        "name": "Swaziland"
+      },
       "id": "SZ"
     },
     {
@@ -10759,7 +11179,9 @@
           ]
         ]
       },
-      "properties": { "name": "Sweden" },
+      "properties": {
+        "name": "Sweden"
+      },
       "id": "SE"
     },
     {
@@ -10798,7 +11220,9 @@
           ]
         ]
       },
-      "properties": { "name": "Switzerland" },
+      "properties": {
+        "name": "Switzerland"
+      },
       "id": "CH"
     },
     {
@@ -10825,7 +11249,9 @@
           ]
         ]
       },
-      "properties": { "name": "Syria" },
+      "properties": {
+        "name": "Syria"
+      },
       "id": "SY"
     },
     {
@@ -10861,7 +11287,9 @@
           ]
         ]
       },
-      "properties": { "name": "Tajikistan" },
+      "properties": {
+        "name": "Tajikistan"
+      },
       "id": "TJ"
     },
     {
@@ -10915,7 +11343,9 @@
           ]
         ]
       },
-      "properties": { "name": "Thailand" },
+      "properties": {
+        "name": "Thailand"
+      },
       "id": "TH"
     },
     {
@@ -10938,7 +11368,9 @@
           ]
         ]
       },
-      "properties": { "name": "Togo" },
+      "properties": {
+        "name": "Togo"
+      },
       "id": "TG"
     },
     {
@@ -10956,7 +11388,9 @@
           ]
         ]
       },
-      "properties": { "name": "Tokelau" },
+      "properties": {
+        "name": "Tokelau"
+      },
       "id": "TK"
     },
     {
@@ -10974,7 +11408,9 @@
           ]
         ]
       },
-      "properties": { "name": "Tonga" },
+      "properties": {
+        "name": "Tonga"
+      },
       "id": "TO"
     },
     {
@@ -11002,7 +11438,9 @@
           ]
         ]
       },
-      "properties": { "name": "Trinidad and Tobago" },
+      "properties": {
+        "name": "Trinidad and Tobago"
+      },
       "id": "TT"
     },
     {
@@ -11026,7 +11464,9 @@
           ]
         ]
       },
-      "properties": { "name": "United Arab Emirates" },
+      "properties": {
+        "name": "United Arab Emirates"
+      },
       "id": "AE"
     },
     {
@@ -11057,7 +11497,9 @@
           ]
         ]
       },
-      "properties": { "name": "Tunisia" },
+      "properties": {
+        "name": "Tunisia"
+      },
       "id": "TN"
     },
     {
@@ -11123,7 +11565,9 @@
           ]
         ]
       },
-      "properties": { "name": "Turkey" },
+      "properties": {
+        "name": "Turkey"
+      },
       "id": "TR"
     },
     {
@@ -11175,7 +11619,9 @@
           ]
         ]
       },
-      "properties": { "name": "Turkmenistan" },
+      "properties": {
+        "name": "Turkmenistan"
+      },
       "id": "TM"
     },
     {
@@ -11201,7 +11647,9 @@
           ]
         ]
       },
-      "properties": { "name": "Turks and Caicos Islands" },
+      "properties": {
+        "name": "Turks and Caicos Islands"
+      },
       "id": "TC"
     },
     {
@@ -11219,7 +11667,9 @@
           ]
         ]
       },
-      "properties": { "name": "Tuvalu" },
+      "properties": {
+        "name": "Tuvalu"
+      },
       "id": "TV"
     },
     {
@@ -11246,7 +11696,9 @@
           ]
         ]
       },
-      "properties": { "name": "Uganda" },
+      "properties": {
+        "name": "Uganda"
+      },
       "id": "UG"
     },
     {
@@ -11333,7 +11785,9 @@
           ]
         ]
       },
-      "properties": { "name": "Ukraine" },
+      "properties": {
+        "name": "Ukraine"
+      },
       "id": "UA"
     },
     {
@@ -11353,7 +11807,9 @@
           ]
         ]
       },
-      "properties": { "name": "Macedonia" },
+      "properties": {
+        "name": "Macedonia"
+      },
       "id": "MK"
     },
     {
@@ -11388,7 +11844,9 @@
           ]
         ]
       },
-      "properties": { "name": "Egypt" },
+      "properties": {
+        "name": "Egypt"
+      },
       "id": "EG"
     },
     {
@@ -11503,7 +11961,9 @@
           ]
         ]
       },
-      "properties": { "name": "United Kingdom" },
+      "properties": {
+        "name": "United Kingdom"
+      },
       "id": "GB"
     },
     {
@@ -11521,7 +11981,9 @@
           ]
         ]
       },
-      "properties": { "name": "Guernsey" },
+      "properties": {
+        "name": "Guernsey"
+      },
       "id": "GG"
     },
     {
@@ -11539,7 +12001,9 @@
           ]
         ]
       },
-      "properties": { "name": "Jersey" },
+      "properties": {
+        "name": "Jersey"
+      },
       "id": "JE"
     },
     {
@@ -11557,7 +12021,9 @@
           ]
         ]
       },
-      "properties": { "name": "Isle of Man" },
+      "properties": {
+        "name": "Isle of Man"
+      },
       "id": "IM"
     },
     {
@@ -11593,7 +12059,9 @@
           ]
         ]
       },
-      "properties": { "name": "Tanzania" },
+      "properties": {
+        "name": "Tanzania"
+      },
       "id": "TZ"
     },
     {
@@ -11971,7 +12439,9 @@
           ]
         ]
       },
-      "properties": { "name": "United States" },
+      "properties": {
+        "name": "United States"
+      },
       "id": "US"
     },
     {
@@ -11989,7 +12459,9 @@
           ]
         ]
       },
-      "properties": { "name": "Virgin Islands" },
+      "properties": {
+        "name": "Virgin Islands"
+      },
       "id": "VI"
     },
     {
@@ -12023,7 +12495,9 @@
           ]
         ]
       },
-      "properties": { "name": "Burkina Faso" },
+      "properties": {
+        "name": "Burkina Faso"
+      },
       "id": "BF"
     },
     {
@@ -12056,7 +12530,9 @@
           ]
         ]
       },
-      "properties": { "name": "Uruguay" },
+      "properties": {
+        "name": "Uruguay"
+      },
       "id": "UY"
     },
     {
@@ -12109,7 +12585,9 @@
           ]
         ]
       },
-      "properties": { "name": "Uzbekistan" },
+      "properties": {
+        "name": "Uzbekistan"
+      },
       "id": "UZ"
     },
     {
@@ -12174,7 +12652,9 @@
           ]
         ]
       },
-      "properties": { "name": "Venezuela" },
+      "properties": {
+        "name": "Venezuela"
+      },
       "id": "VE"
     },
     {
@@ -12200,7 +12680,9 @@
           ]
         ]
       },
-      "properties": { "name": "Wallis and Futuna" },
+      "properties": {
+        "name": "Wallis and Futuna"
+      },
       "id": "WF"
     },
     {
@@ -12226,7 +12708,9 @@
           ]
         ]
       },
-      "properties": { "name": "Samoa" },
+      "properties": {
+        "name": "Samoa"
+      },
       "id": "WS"
     },
     {
@@ -12253,7 +12737,9 @@
           ]
         ]
       },
-      "properties": { "name": "Yemen" },
+      "properties": {
+        "name": "Yemen"
+      },
       "id": "YE"
     },
     {
@@ -12299,7 +12785,9 @@
           ]
         ]
       },
-      "properties": { "name": "Zambia" },
+      "properties": {
+        "name": "Zambia"
+      },
       "id": "ZM"
     }
   ]
