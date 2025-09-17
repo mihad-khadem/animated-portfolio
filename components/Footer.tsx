@@ -1,30 +1,30 @@
 import { FaLocationArrow } from "react-icons/fa6";
-
 import { socialMedia } from "@/data";
 import MagicButton from "./MagicButton";
 
 const Footer = () => {
   return (
-    <footer className="w-full pt-20 pb-10" id="contact">
-      {/* background grid */}
-      <div className="w-full absolute left-0 -bottom-72 min-h-96">
+    <footer className="relative w-full pt-20 pb-10" id="contact">
+      {/* Background grid */}
+      <div className="absolute left-0 -bottom-72 w-full min-h-[24rem]">
         <img
           src="/footer-grid.svg"
           alt="grid"
-          className="w-full h-full opacity-50 "
+          className="w-full h-full object-cover opacity-50 pointer-events-none"
         />
       </div>
 
-      <div className="flex flex-col items-center">
+      {/* Main content */}
+      <div className="flex flex-col items-center px-6 relative z-10 text-center">
         <h1 className="heading lg:max-w-[45vw]">
           Ready to take <span className="text-purple">your</span> digital
           presence to the next level?
         </h1>
-        <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals.
+        <p className="text-white-200 mt-5 md:mt-10 text-center max-w-xl">
+          Reach out today and let&apos;s discuss how I can help you achieve your
+          goals efficiently.
         </p>
-        <a href="mailto:contact@jsmastery.pro">
+        <a href="mailto:mihadkhadem@gmail.com" className="mt-6 md:mt-10">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -32,19 +32,24 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Adrian Hajdin
+
+      {/* Bottom section */}
+      <div className="flex flex-col md:flex-row justify-between items-center mt-16 px-6 relative z-10 gap-4 md:gap-0">
+        <p className="text-sm md:text-base text-white/70">
+          &copy; 2025 Mihad Khadem. All rights reserved.
         </p>
 
-        <div className="flex items-center md:gap-3 gap-6">
+        <div className="flex items-center gap-4 md:gap-3">
           {socialMedia.map((info) => (
-            <div
+            <a
               key={info.id}
-              className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
+              href={info.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-10 h-10 flex justify-center items-center rounded-lg bg-black/75 backdrop-blur-md border border-black/30 hover:scale-110 transition-transform duration-300"
             >
-              <img src={info.img} alt="icons" width={20} height={20} />
-            </div>
+              <img src={info.img} alt={info.name} width={20} height={20} />
+            </a>
           ))}
         </div>
       </div>

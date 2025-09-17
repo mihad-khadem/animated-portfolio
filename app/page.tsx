@@ -21,7 +21,6 @@ const Home = () => {
         <AboutPage />
         <Grid />
         <RecentProjects />
-
         {/* <Clients /> */}
         <Experience />
         <Approach />
