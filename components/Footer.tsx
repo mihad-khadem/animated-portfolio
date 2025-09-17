@@ -48,7 +48,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="w-10 h-10 flex justify-center items-center rounded-lg bg-black/75 backdrop-blur-md border border-black/30 hover:scale-110 transition-transform duration-300"
             >
-              <img src={info.img} alt={info.name} width={20} height={20} />
+              <img src={info.img} alt="social link" width={20} height={20} />
             </a>
           ))}
         </div>
