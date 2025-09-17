@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { FaLocationArrow } from "react-icons/fa6";
 import Image from "next/image";
-import MagicButton from "./ui/MagicButton";
+import MagicButton from "./MagicButton";
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 
 const ContactForm = () => {

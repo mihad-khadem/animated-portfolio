@@ -3,8 +3,7 @@
 
 import Image from "next/image";
 import { FaDownload, FaGithub, FaLinkedin } from "react-icons/fa";
-import { motion } from "framer-motion";
-import { Button } from "./ui/MovingBorders";
+import { Button } from "@/components/ui/MovingBorders";
 
 const socialLinks = [
   {
@@ -24,7 +23,8 @@ const socialLinks = [
   },
 ];
 
-const skills = [
+export const skills = [
+  // Languages
   {
     id: 1,
     name: "JavaScript",
@@ -34,175 +34,295 @@ const skills = [
   },
   {
     id: 2,
-    name: "Next.js",
-    badge:
-      "https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white",
-    link: "https://nextjs.org/",
-  },
-  {
-    id: 3,
     name: "TypeScript",
     badge:
       "https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white",
     link: "https://www.typescriptlang.org/",
   },
   {
-    id: 4,
-    name: "Python",
+    id: 3,
+    name: "Python (Intermediate)",
     badge:
       "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white",
     link: "https://www.python.org/",
   },
   {
+    id: 4,
+    name: "PHP (Beginner)",
+    badge:
+      "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white",
+    link: "https://www.php.net/",
+  },
+
+  // Frontend
+  {
     id: 5,
-    name: "React",
+    name: "React.js",
     badge:
       "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB",
     link: "https://react.dev/",
   },
   {
     id: 6,
-    name: "Node.js",
+    name: "Redux",
     badge:
-      "https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white",
-    link: "https://nodejs.org/",
+      "https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white",
+    link: "https://redux.js.org/",
   },
   {
     id: 7,
-    name: "Django",
+    name: "React Query",
     badge:
-      "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white",
-    link: "https://www.djangoproject.com/",
+      "https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white",
+    link: "https://tanstack.com/query/latest",
   },
   {
     id: 8,
+    name: "Next.js",
+    badge:
+      "https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white",
+    link: "https://nextjs.org/",
+  },
+  {
+    id: 9,
     name: "HTML5",
     badge:
       "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white",
     link: "https://developer.mozilla.org/en-US/docs/Web/HTML",
   },
   {
-    id: 9,
+    id: 10,
     name: "CSS3",
     badge:
       "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white",
     link: "https://developer.mozilla.org/en-US/docs/Web/CSS",
   },
+  {
+    id: 11,
+    name: "Bootstrap",
+    badge:
+      "https://img.shields.io/badge/Bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white",
+    link: "https://getbootstrap.com/",
+  },
+  {
+    id: 12,
+    name: "Tailwind CSS",
+    badge:
+      "https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white",
+    link: "https://tailwindcss.com/",
+  },
+
+  // Backend
+  {
+    id: 13,
+    name: "Node.js",
+    badge:
+      "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white",
+    link: "https://nodejs.org/en/",
+  },
+  {
+    id: 14,
+    name: "Express.js",
+    badge:
+      "https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB",
+    link: "https://expressjs.com/",
+  },
+  {
+    id: 15,
+    name: "Nest.js",
+    badge:
+      "https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white",
+    link: "https://nestjs.com/",
+  },
+  {
+    id: 16,
+    name: "FastAPI",
+    badge:
+      "https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white",
+    link: "https://fastapi.tiangolo.com/",
+  },
+  {
+    id: 17,
+    name: "MongoDB",
+    badge:
+      "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white",
+    link: "https://www.mongodb.com/",
+  },
+  {
+    id: 18,
+    name: "Mongoose",
+    badge:
+      "https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white",
+    link: "https://mongoosejs.com/",
+  },
+  {
+    id: 19,
+    name: "PostgreSQL",
+    badge:
+      "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white",
+    link: "https://www.postgresql.org/",
+  },
+  {
+    id: 20,
+    name: "SQL",
+    badge:
+      "https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white",
+    link: "https://en.wikipedia.org/wiki/SQL",
+  },
+  {
+    id: 21,
+    name: "Sequelize",
+    badge:
+      "https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white",
+    link: "https://sequelize.org/",
+  },
+  {
+    id: 22,
+    name: "Prisma",
+    badge:
+      "https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white",
+    link: "https://www.prisma.io/",
+  },
+  {
+    id: 23,
+    name: "JWT Authentication",
+    badge:
+      "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens",
+    link: "https://jwt.io/",
+  },
+
+  // Tools
+  {
+    id: 24,
+    name: "Git",
+    badge:
+      "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white",
+    link: "https://git-scm.com/",
+  },
+  {
+    id: 25,
+    name: "Bash",
+    badge:
+      "https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white",
+    link: "https://www.gnu.org/software/bash/",
+  },
+  {
+    id: 26,
+    name: "VS Code",
+    badge:
+      "https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white",
+    link: "https://code.visualstudio.com/",
+  },
+  {
+    id: 27,
+    name: "Postman",
+    badge:
+      "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white",
+    link: "https://www.postman.com/",
+  },
+  {
+    id: 28,
+    name: "Stripe",
+    badge:
+      "https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white",
+    link: "https://stripe.com/",
+  },
+  {
+    id: 29,
+    name: "Firebase",
+    badge:
+      "https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black",
+    link: "https://firebase.google.com/",
+  },
+  {
+    id: 30,
+    name: "Vercel",
+    badge:
+      "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white",
+    link: "https://vercel.com/",
+  },
 ];
 
 export default function AboutPage() {
   return (
-    <section id="about" className="min-h-screen flex items-center py-20">
-      <div className="container mx-auto px-6">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-          className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start"
-        >
-          {/* Left Side - Profile + Contact */}
+    <section
+      id="about"
+      className="min-h-screen flex items-center justify-center py-20 px-6"
+    >
+      <Button
+        as="div"
+        borderRadius="2rem"
+        className="flex flex-col md:flex-row w-full max-w-6xl bg-white/10 backdrop-blur-xl p-8 gap-8"
+      >
+        {/* Left Column */}
+        <div className="flex flex-col items-center md:items-start gap-4 w-full md:w-1/2 text-center md:text-left">
           <Button
-            as="div"
-            borderRadius="1.5rem"
-            className="p-6 flex flex-col items-center gap-6 w-full bg-white/10 backdrop-blur-xl"
+            borderRadius="9999px"
+            className="w-64 h-64 p-0 overflow-hidden mb-4"
           >
-            <Button
-              borderRadius="9999px"
-              className="p-0 w-40 h-40 overflow-hidden"
-            >
-              <Image
-                src="/profile_mihad.jpeg"
-                alt="Mihad Khadem"
-                fill
-                priority
-                className="object-cover rounded-full"
-              />
-            </Button>
-
-            <div className="text-center">
-              <h1 className="text-3xl font-bold text-white">Mihad Khadem</h1>
-              <h3 className="text-xl text-gray-200 mt-1">
-                Full Stack Software Engineer
-              </h3>
-            </div>
-
-            <div className="space-y-2 text-center">
-              <h4 className="text-xl font-semibold text-white">Contact</h4>
-              <address className="not-italic text-white/80 space-y-1">
-                <p className="flex items-center justify-center gap-2">
-                  <span>📍</span> Dhaka, Bangladesh
-                </p>
-                <p className="flex items-center justify-center gap-2">
-                  <span>📧</span>
-                  <a
-                    href="mailto:mihadkhadem@gmail.com"
-                    className="hover:underline"
-                  >
-                    mihadkhadem@gmail.com
-                  </a>
-                </p>
-                <p className="flex items-center justify-center gap-2">
-                  <span>📱</span> +880 1639286145
-                </p>
-              </address>
-            </div>
+            <Image
+              src="/profile_mihad.jpeg"
+              alt="Mihad Khadem"
+              fill
+              priority
+              className="object-cover rounded-full"
+            />
           </Button>
+          <h1 className="text-3xl font-bold text-white">Mihad Khadem</h1>
+          <h3 className="text-xl text-gray-200 mt-1">
+            Full Stack Software Engineer
+          </h3>
+          <p className="text-gray-200 text-lg leading-relaxed mt-4">
+            Dynamic and results-driven{" "}
+            <span className="font-semibold">Full Stack Software Engineer</span>{" "}
+            with expertise in building scalable, high-performance web
+            applications. Improved application efficiency by{" "}
+            <span className="text-purple-400 font-semibold">30%</span> and
+            reduced load times by{" "}
+            <span className="text-purple-400 font-semibold">25%</span>,
+            delivering elegant design paired with robust, maintainable
+            solutions.
+          </p>
+        </div>
 
-          {/* Right Side - Bio, Skills, Social Links */}
-          <Button
-            as="div"
-            borderRadius="1.5rem"
-            className="p-6 flex flex-col items-center gap-6 w-full bg-white/10 backdrop-blur-xl"
-          >
-            {/* Bio */}
-            <p className="text-gray-200 leading-relaxed text-center text-lg max-w-xl">
-              Dynamic and skilled{" "}
-              <span className="font-semibold">MERN stack developer</span> with
-              expertise in building scalable web applications. Passionate about
-              creating impactful solutions that combine elegant design with
-              robust functionality.
-            </p>
-
-            {/* Skills */}
-            <div className="space-y-4 w-full">
-              <h4 className="text-xl font-semibold text-white text-center">
-                Technical Skills
-              </h4>
-              <div className="flex flex-wrap justify-center gap-3">
-                {skills.map((skill) => (
-                  <a
-                    key={skill.id}
-                    href={skill.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img src={skill.badge} alt={skill.name} />
-                  </a>
-                ))}
-              </div>
-            </div>
-
-            {/* Social Links */}
-            <div className="flex flex-wrap justify-center gap-4 mt-4">
-              {socialLinks.map(({ href, label, icon }) => (
-                <Button
-                  key={label}
-                  as="a"
-                  href={href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  borderRadius="0.75rem"
-                  className="px-6 py-2.5 text-white bg-white/10 backdrop-blur-xl"
-                >
-                  <div className="flex items-center gap-2">
-                    {icon} {label}
-                  </div>
-                </Button>
-              ))}
-            </div>
-          </Button>
-        </motion.div>
-      </div>
+        {/* Right Column */}
+        <div className="flex flex-col items-center md:items-start gap-6 w-full md:w-1/2">
+          <h2 className="text-2xl font-bold text-white mb-2 self-center md:self-start">
+            Weapons
+          </h2>
+          {/* Skills */}
+          <div className="flex flex-wrap justify-center md:justify-start gap-3">
+            {skills.map((skill) => (
+              <a
+                key={skill.id}
+                href={skill.link}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img src={skill.badge} alt={skill.name} />
+              </a>
+            ))}
+          </div>
+          {/* Social Links */}
+          <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-4">
+            {socialLinks.map(({ href, label, icon }) => (
+              <Button
+                key={label}
+                as="a"
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                borderRadius="0.75rem"
+                className="px-6 py-2.5 text-white bg-white/10 backdrop-blur-xl"
+              >
+                <div className="flex items-center gap-2">
+                  {icon} {label}
+                </div>
+              </Button>
+            ))}
+          </div>
+        </div>
+      </Button>
     </section>
   );
 }
