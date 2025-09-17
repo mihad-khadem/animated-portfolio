@@ -31,7 +31,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -58,7 +58,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
 
-👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+👉 **3D Elements**: Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
 
 👉 **Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
 
@@ -68,7 +68,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -641,7 +641,6 @@ export default config;
 
 </details>
 
-
 <details>
 <summary><code>Linear Gradient</code></summary>
 
@@ -654,14 +653,15 @@ style={{
           "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
       }}
 ```
-</details>
 
+</details>
 
 ## <a name="links">🔗 Assets</a>
 
 Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
 
 ## <a name="more">🚀 More</a>
+
 **Advance your skills with Next.js Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
@@ -669,3 +669,61 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
+
+<!-- Project README for Mihad Khadem's portfolio -->
+
+# Mihad Khadem — Full Stack Software Engineer
+
+Personal portfolio built with Next.js, Tailwind CSS and modern frontend tooling to showcase projects, skills and experience.
+
+Badges: Next.js • React • TypeScript • Tailwind • Three.js
+
+---
+
+## About
+
+Full Stack Software Engineer experienced in building scalable web applications. I focus on clean architecture, performance, and maintainability. Proven improvements: +30% efficiency, -25% load times.
+
+## Tech Stack
+
+- Frontend: Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Three.js
+- Backend: Node.js, Express, NestJS, FastAPI, GraphQL, PostgreSQL, MongoDB, Prisma, Sequelize
+- DevOps / Tools: Docker, Kubernetes, Redis, AWS, Vercel, Firebase, Git, Postman
+
+## Features
+
+- Hero section with 3D and motion effects
+- Responsive Bento Grid layout
+- Projects, Testimonials, Work Experience
+- Skills badges and downloadable resume
+- Clean, component-driven architecture
+
+## Quick Start
+
+Prerequisites: Node.js, npm
+
+Clone and run:
+
+```bash
+git clone https://github.com/mihad-khadem/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+
+Open http://localhost:3000
+
+## Contributing / Assets
+
+- Assets: stored in /public and referenced from components
+- Keep components small and reusable; use Tailwind utility classes and shared UI primitives.
+
+## Contact
+
+- GitHub: https://github.com/mihad-khadem
+- LinkedIn: https://www.linkedin.com/in/mihad-khadem-6510b6222/
+- Resume: linked in the site header
+
+---
+
+If you want, I can tailor this README further (shorter, more technical, or with project highlights).
